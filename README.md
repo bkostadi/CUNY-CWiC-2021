@@ -1,2 +1,2 @@
-# CUNY-CWiC-2021
+# CUNY CWiC 2021
 CUNY CWiC 2021 Conference
